@@ -53,7 +53,7 @@ People start either as free agents or in default faction, can be recruited (prop
 - Theory
 - Propaganda
 - Publications & Censorship - people can write books, books can be translated and published in russia (like marx), state can try to censor publication
-- Wars (WW1, Japan)
+- Wars (WW1, Japan) - would affect public opinion and faction loyalty. winning battles = bonus for state faction, being at war = penalty for Bolsheviks, SRs
 - Reforms (farming, factories) - spend political capital to pass reforms, which would provide bonuses and slightly change game mechanics
 - Professed vs actual faction - state faction could use secret police to infiltrate factions or convince people to become police informers, which would happen without knowledge of player
 - Okhrana (secret police) & infiltration
