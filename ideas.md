@@ -5,8 +5,14 @@ Comrade
 # Winning
 Different factions have different goals.
 
+Revolution could be triggered by unrest level of population reaching a certain point or by spending points on certain actions.
+
+# Events
+Historical events would happen at appropriate times throughout the game. These could change the mechanics of the game or add actions. Examples: famines, war with Japan, WWI
+
 # People
-People start either as free agents or in default faction, can be recruited (propagandized) into other factions
+People start either as free agents or in default faction, can be recruited (propagandized) into other factions. People enter the game when they turn a certain age (based on historical birthdate). They leave the game when they die (of natural causes or are assassinated/executed).
+
 - Lenin
 - Trotsky
 - Lvov
