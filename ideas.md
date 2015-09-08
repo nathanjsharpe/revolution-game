@@ -1,3 +1,6 @@
+# General
+Play through Russian revolutionary period. Choose faction, recruit people, do stuff to take over or prevent takeover. Push things in direction of the way they happened historically (with faction bonuses, outside events, default factions for people, etc.) but allow deviation if player is clever. Capture "feeling" of each faction.
+
 # Names
 Revolution
 Comrade
