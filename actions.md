@@ -20,3 +20,17 @@ Just examples, subject to a lot of change.
   - 4-9: No effect
   - 10-14: Target killed, Person imprisoned
   - 15+: Target killed
+
+## Recruit
+- Cost: 5 Theory Points
+- Effect: 1-6 + Personality influence added to a Person for actor's faction
+
+## Create Propaganda
+- Cost: 5 + X Theory points
+- Effect: Gain 1-6 + X + Avg(Writing, Personality) Propaganda Points
+
+## Disseminate Propaganda
+- Cost: 5 + X Propaganda Points
+- Effect: 
+  - Gain 1-6 + X + Personality Influence
+  - Increase Unrest by 1-6 + Personality
