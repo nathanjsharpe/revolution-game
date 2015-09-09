@@ -1,14 +1,28 @@
 # General
-Play through Russian revolutionary period. Choose faction, recruit people, do stuff to take over or prevent takeover. Push things in direction of the way they happened historically (with faction bonuses, outside events, default factions for people, etc.) but allow deviation if player is clever. Capture "feeling" of each faction.
+Play through Russian revolutionary period. Choose faction, recruit people, do stuff to take over or prevent takeover. Push things in direction of the way they happened historically (with faction bonuses, outside events, default factions for people, etc.) but allow deviation if player is clever. Capture "feeling" of each faction and certain people.
 
 # Names
-Revolution
-Comrade
+- Revolution
+- Comrade
+- 1917
 
 # Winning
 Different factions have different goals.
 
 Proletariat revolution could be triggered by unrest level of population reaching a certain point or by spending points on certain actions. Game would change based on whether government is stable or unstable. In stable periods, factions attempt to foment revolution, prepare for next revolution. In revolutionary periods, attempt to wrest control of governement or force through certain policies.
+
+# Influence
+Influence over different groups. Certain actions (like starting a revolution, passing certain reforms) require a certain level of influence over one or more groups.
+- Tsar
+- Bureaucracy (maybe part of Bourgoisie)
+- Bourgoisie (maybe includes Bureaucracy)
+- Proletariat (average of each subclass?)
+  - Factory workers
+  - Farmers
+  - Soldiers
+
+# Stability
+Game would shift back and forth between Stable and Revolution. Actions and mechanics differ depending on which is currently active. Victory is acheived
 
 # Events
 Historical events would happen at appropriate times throughout the game. These could change the mechanics of the game or add actions. Examples: famines, war with Japan, WWI
@@ -16,8 +30,8 @@ Historical events would happen at appropriate times throughout the game. These c
 # People
 People start either as free agents or in default faction, can be recruited (propagandized) into other factions. People enter the game when they turn a certain age (based on historical birthdate). They leave the game when they die (of natural causes or are assassinated/executed).
 
-- Lenin
-- Trotsky
+- Lenin 1870-1924
+- Trotsky 1879-1940
 - Lvov
 - Miliukov
 - Stolypin
@@ -52,7 +66,7 @@ People start either as free agents or in default faction, can be recruited (prop
 - Social Revolutionaries - bonus with agrarian peasants? - win by establishing stable socialist gov't
 
 # Mechanics
-Turns would consist of 2 phases: earning points, spending points. People could take one action per turn (so could act either in earning phase or spending phase).
+Turns would consist of 2 phases: earning points, spending points. People could take one action per turn (so could act either in earning phase or spending phase). Maybe two phases is too much? Just a single phase would make game simpler.
 - Attributes & Skills
 - Theory - earned
 - Propaganda - spent to influence bourgeoisie, proletariat, or specific people
