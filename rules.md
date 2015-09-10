@@ -21,11 +21,14 @@ Unrest is represented by a single number 0-100. Milestones as follows:
 
 - Starts at 20
 - < 0, Tsarist faction wins.
-- >= 60, becomes possible to start revolution
 - >= 80, revolution starts automatically
 - <= 50, revolution ends if currently active
 
 At the end of each turn during revolution, Unrest decreases by 5.
+
+# Revolution
+
+Revolutions can be started by actions 
 
 # Actions
 
@@ -38,5 +41,10 @@ Action attributes:
 
 - Cost: Number of type of points required to execute the action.
 - Outcome: Effect of the action.
+- Requirements: Prerequisites to perform the action. Person's attributes, faction influence level, unrest level, etc.
 - Personal/General
 - How people participating in the action affect its outcome
+
+Playing actions:
+
+Prerequisites are checked and costs are paid when an action is revealed. If at the time it is revealed, either the prerequisites or not met or the player can't afford the cost, the action does not happen (is skipped).
